@@ -1,4 +1,4 @@
-<h2 align="center">Bem-vindo ao meu perfil do GitHub!<br><br>Sou apaixonado por desenvolvimento de software e aprendizado contínuo. Meu foco atual está em Desenvolvimento Backend,  Estou sempre em busca de novos desafios e oportunidades de colaboração.</h2>
+<h2 align="center">Olá! Seja bem-vindo ao meu perfil do GitHub. Sou um desenvolvedor de software apaixonado por criar soluções inovadoras e eficientes e por compartilhar conhecimento com a comunidade.</h2>
 
 ###
 
